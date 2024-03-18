@@ -1,4 +1,5 @@
 [
+  {"name": "Minu", "description": "Minu is the first mining dog coin on Binance Smart Chain.", "url": "https://www.minucoin.com/dapp", "category": "Finance"},
   {"name": "TokenScript", "description": "Smart Token Labs TokenScript Viewer", "url": "https://viewer.tokenscript.org/", "category": "Infrastructure"},
   {"name": "SmartLayer", "description": "Smart Token Labs Smart Layer Network", "url": "https://smartlayer.network", "category": "Infrastructure"},
   {"name": "X", "description": "Social Media", "url": "https://x.com", "category": "Social Media"},
